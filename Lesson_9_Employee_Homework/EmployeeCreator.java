@@ -13,6 +13,7 @@ public class EmployeeCreator {
         System.out.println(employee2.getSalaryPerMonth());
         employee2.raiseSalary(100);
         System.out.println(employee2.getSalaryPerMonth());
+        System.out.println(employee2.toString());
 
 
     }
