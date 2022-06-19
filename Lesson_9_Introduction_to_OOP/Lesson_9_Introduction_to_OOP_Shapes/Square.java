@@ -1,6 +1,6 @@
 package Lesson_9_Introduction_to_OOP.Lesson_9_Introduction_to_OOP_Shapes;
 
-public class Square extends  Shape {
+public class Square extends  Rectangle {
 
    private double side;
 
